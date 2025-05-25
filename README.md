@@ -14,7 +14,7 @@ Projeyi klonlayın ve gerekli bağımlılıkları yükleyin. Ardından programı
 Programı açtıktan sonra kullanıcı bilgilerini girip kaydedebilirsiniz.
 
 ## Görsel
-![Program Arayüzü](programphoto.png)
+![Program Arayüzü](program photo.png)
 
 ## Lisans
 MIT Lisansı altında lisanslanmıştır.
